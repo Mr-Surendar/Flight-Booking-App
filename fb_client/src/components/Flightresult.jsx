@@ -52,7 +52,7 @@ const FlightResult = () => {
               <button
                 style={{
                   padding: '10px 20px',
-                  backgroundColor: '#4CAF50',
+                  backgroundColor: '#344fa1',
                   color: '#fff',
                   border: 'none',
                   borderRadius: '5px',
