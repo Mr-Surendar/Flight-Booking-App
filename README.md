@@ -90,7 +90,7 @@ npm start
 cd fb_backend
 node server.js
 ```
-- The frontend will be available at http://localhost:3000 and the backend at http://localhost:5000.
+- The frontend will be available at http://localhost:3000 and the backend at http://localhost:5001.
 
   ## 📌 Usage
   - Ensure both frontend and backend are running.
