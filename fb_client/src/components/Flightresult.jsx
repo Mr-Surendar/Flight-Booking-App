@@ -40,26 +40,27 @@ const FlightResult = () => {
             >
               <div>
                 <p style={{ margin: 0, fontSize: '1.1em', fontWeight: 'bold', color: '#333' }}>
-                  Flight Number: {flight.flightNumber}
+                  Flight Number: {flight.flightNumber} /({flight.class})
                 </p>
                 <p style={{ margin: '5px 0', color: '#555' }}>
                   Origin: {flight.origin} - Destination: {flight.destination}
                 </p>
                 <p style={{ margin: '5px 0', color: '#555' }}>
                   Price: ₹{flight.price}
+                
                 </p>
               </div>
               <button
                 style={{
                   padding: '10px 20px',
-                  backgroundColor: '#344fa1',
+                  backgroundColor: '#3f51b5',
                   color: '#fff',
                   border: 'none',
                   borderRadius: '5px',
                   cursor: 'pointer',
                   fontWeight: 'bold',
                 }}
-                onClick={() => alert(`Booking flight ${flight.flightNumber}`)}
+                onClick={() => alert(`Your flight has successfully Booked :) with flight ID - ${flight.flightNumber}`)}
               >
                 Book Now
               </button>
