@@ -51,7 +51,7 @@ SkyAirlines
 ## Screenshots
 
 ### Home Page
-![Home Page](images/Screenshot 2024-11-13 123809.png)
+![Home Page](Flight-Booking-App/images/Screenshot%202024-11-13%20123809.png)
 
 ### Loading Animations
 ![Loading Animations](Flight-Booking-App/images/Screenshot%202024-11-13%20130239.png)
