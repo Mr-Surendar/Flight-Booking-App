@@ -47,6 +47,10 @@ SkyAirlines
 │
 └── README.md           # Project documentation
 ```     
+## Here's the Screenshorts
+![Home Page](./images/Screenshot 2024-11-13 123809.PNG)
+![Animations](./images/Screenshot 2024-11-13 123827.PNG)
+![Flight results](./images/Screenshot 2024-11-13 123921.PNG)
 
 ## 🌟 Features
 
