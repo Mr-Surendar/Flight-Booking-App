@@ -57,7 +57,7 @@ SkyAirlines
 ![Loading Animations](images/Screenshot%202024-11-13%20130239.png)
 
 ### Flight Results
-![Flight Results](images/Screenshot%202024-11-14%110734.png).
+![Flight Results](images/Screenshot%202024-11-14%20110734.png).
 
 
 ## 🌟 Features
