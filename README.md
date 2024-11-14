@@ -48,7 +48,6 @@ SkyAirlines
 └── README.md           # Project documentation
 ```     
 ## Here's the Screenshorts
-## Screenshots
 
 ### Home Page
 ![Home Page](images/Screenshot%202024-11-13%20123809.png)
